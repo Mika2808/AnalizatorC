@@ -1,8 +1,8 @@
 
 # Opis
-Projekt polega na implementacji analizatora leksykalnego dla języka C w C++.
+Projekt polega na implementacji procesora CSS.
 
-Analizator działa poprzez tokenizację kodu wejściowego – dzieli go na poszczególne jednostki (tokeny) i przypisuje im odpowiednie kategorie.
+W ramach zadania wejście jest wczytywane, a sekcje CSS przeplatane sekcjami komend. Sekcje CSS są parsowane i umieszczane w dwukiernkowych listach.
 
 Dodatkowo w ramach projektu jest napisana własna klasa String.
 # Technologie 
